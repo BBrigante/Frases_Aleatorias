@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\bin\Debug\net7.0\GerandoOpcoesComSwicth.exe
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\bin\Debug\net7.0\GerandoOpcoesComSwicth.deps.json
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\bin\Debug\net7.0\GerandoOpcoesComSwicth.runtimeconfig.json
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\bin\Debug\net7.0\GerandoOpcoesComSwicth.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\bin\Debug\net7.0\GerandoOpcoesComSwicth.pdb
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\refint\GerandoOpcoesComSwicth.dll
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.pdb
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\GerandoOpcoesComSwicth.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Cursos\Cursos TrenaWeb\Desenvolvedor CSharp\CSharp_Fundamentos\ProjetosEexercicios\GerandoOpcoesComSwicth\obj\Debug\net7.0\ref\GerandoOpcoesComSwicth.dll
